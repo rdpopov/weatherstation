@@ -1,0 +1,12 @@
+{
+    "ssid":"Rosko",
+    "pass":"12345678",
+    "dssid":"E32Wtr-St",
+    "dpass":"12345678",
+    "gmt":"2",
+    "useds":"1",
+    "syncntp":"1",
+    "log_delay":"600000",
+    "lat":"42.6977",
+    "lon":"23.3219"
+}
