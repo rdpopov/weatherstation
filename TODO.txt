@@ -1,8 +1,0 @@
-• Calculating moon phases
-• Showing the day of the week
-• Adding buttons for setup
-• Adding energy-independent memory for saving the collected data
-• Adding external sensor for temperature and humidity
-• Adding images for storm and small rain
-• Connecting via WiFi to mobile devices for setup and control
-• Showing events – birthdays, appointments, official holidays, defined in a mobile app
